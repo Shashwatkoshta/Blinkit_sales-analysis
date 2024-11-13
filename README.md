@@ -47,7 +47,7 @@ The dashboard also includes a breakdown of sales, average sales, number of items
 # Dashboard
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/09aa534e-36f2-4335-8264-21dc61e1fd3d" alt="BlinkIt Dashboard"/>
+    <img src="https://app.powerbi.com/groups/me/reports/3d7f1293-0e91-420c-8007-81a5a5edb316/db441e863484e2c321c4?experience=power-bi"/>
 </p>
 
 # Credits
