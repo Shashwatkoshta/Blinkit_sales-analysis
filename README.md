@@ -1,30 +1,55 @@
-# Blinkit_sales-analysis
-Overview
+# BlinkIt Data Analysis Dashboard in Power BI
+
+# **Overview**
+
+<div align = "justify">
 This work contains a sales dashboard for Blinkit, India’s Last Minute App. The dashboard visualizes various key performance indicators (KPIs) related to sales data including total sales, average sales, the number of items sold and average ratings across different outlet types and locations.
-Setup
+</div>
+
+# Setup
+
 Power BI Desktop
 
-Dashboard Highlights
-Total Sales: $1.2M
+# **Dashboard Highlights**
 
-Average Sales per Item: $141
+**Total Sales:** $1.2M
 
-Total Number of Items: 85,823
+**Average Sales per Item:** $141
 
-Average Rating: 3.9 stars
+**Total Number of Items:** 85,823
 
-Key Visualizations
-1) Fat Content Analysis: The dashboard displays the distribution of sales between low-fat and regular items. Regular items account for $776.3K in sales, while low-fat items contribute $425.4K.
+**Average Rating:** 3.9 stars
 
-2) Item Type Performance: The highest-grossing categories are "Fruits and Vegetables" and "Snack Foods," each generating $0.18M in sales. Other significant categories include "Household," "Frozen Foods," and "Dairy."
+# **Key Visualizations**
 
-3) Outlet Establishment Timeline: A line chart tracks the establishment of outlets over time, highlighting key milestones in sales growth from 2010 to 2020.
+<div align = "justify">
+    
+**_1) Fat Content Analysis:_**
+The dashboard displays the distribution of sales between low-fat and regular items.
+Regular items account for $776.3K in sales, while low-fat items contribute $425.4K.
 
-4) Outlet Size Distribution: Outlets are categorized by size: Medium, Small, and High.
+**_2) Item Type Performance:_**
+The highest-grossing categories are "Fruits and Vegetables" and "Snack Foods," each generating $0.18M in sales.
+Other significant categories include "Household," "Frozen Foods," and "Dairy."
 
-5) Outlet Location and Type: Sales distribution across Tier 1, Tier 2, and Tier 3 cities shows that Tier 3 cities contribute the most, with $0.31M in sales. The dashboard also includes a breakdown of sales, average sales, number of items, and average ratings across different outlet types like Grocery Stores and various types of Supermarkets. The sales are most significant in Medium-sized outlets, contributing $507.9K to total sales.
+**_3) Outlet Establishment Timeline:_**
+A line chart tracks the establishment of outlets over time, highlighting key milestones in sales growth from 2010 to 2020.
 
+**_4) Outlet Size Distribution:_**
+Outlets are categorized by size: Medium, Small, and High.
 
+**_5) Outlet Location and Type:_**
+Sales distribution across Tier 1, Tier 2, and Tier 3 cities shows that Tier 3 cities contribute the most, with $0.31M in sales.
+The dashboard also includes a breakdown of sales, average sales, number of items, and average ratings across different outlet types like Grocery Stores and various types of Supermarkets. The sales are most significant in Medium-sized outlets, contributing $507.9K to total sales.
 
-Credits
-Dataset: https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI
+</div>
+
+# Dashboard
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/09aa534e-36f2-4335-8264-21dc61e1fd3d" alt="BlinkIt Dashboard"/>
+</p>
+
+# Credits
+
+**Dataset:** https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI 
